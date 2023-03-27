@@ -1,0 +1,13 @@
+{
+	"message": "Hello world",
+	"email": "abcd@efg.com",
+	"Countries": [
+		"Uruguay",
+		"Rwanda",
+		"Germany",
+		"Romania",
+		"Estonia",
+		"Azerbaijan",
+		"Tunisia"
+	]
+}
